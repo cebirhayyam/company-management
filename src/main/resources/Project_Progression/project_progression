@@ -1,0 +1,8 @@
+1) Dokümanları oku
+2) Proje için gerekli dependency'leri ekle, birkaç dependency eksik, şu an acelesi olmadığı için eklemedim
+3) Projeyi indirip Intellij IDEA'da açtım.
+4) Entity katmanını oluşturacağım
+5) Repository katmanını oluşturacağım
+6) Controller katmanını oluşturacağım
+7) Service katmanını oluşturacağım
+8) Exception
